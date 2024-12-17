@@ -9,7 +9,7 @@
 
 # 👨‍�� About Me
 
-Student in SRM University pursuing UG in Artificial Intelligence and Machine Learning
+Pre Final Year student  with a strong interest in software development, database management, and machine learning. I enjoy coding, optimizing systems, and contributing to impactful projects. 
 
 # 💻 Tech Stack
 ### 💻 Programming Languages
