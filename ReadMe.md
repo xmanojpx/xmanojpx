@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me 👋<br><br>Hi, I’m Manoj P, a Pre Final year B.Tech student specializing in Computer Science with a focus on Artificial Intelligence and Machine Learning at SRMIST, Kattankulathur.<br><br>💻 I’m currently working on:<br><br>Building expertise as a Data Engineer.<br><br>🤝 I’m looking to collaborate :<br><br>Open-source projects related to data engineering, machine learning, or web development.<br><br><br>🤔 I’m looking for help with:<br><br>Optimizing workflows for large datasets and enhancing my portfolio for data-centric roles.<br><br>⚡ Fun fact:<br><br>I won an award in candid photography on World Environment Day.
+About Me 👋<br><br>Hi, I’m Manoj P, a Final year B.Tech student specializing in Computer Science with a focus on Artificial Intelligence and Machine Learning at SRMIST, Kattankulathur.<br><br>💻 I’m currently working on:<br><br>Building expertise as a Data Engineer.<br><br>🤝 I’m looking to collaborate :<br><br>Open-source projects related to data engineering, machine learning, or web development.<br><br><br>🤔 I’m looking for help with:<br><br>Optimizing workflows for large datasets and enhancing my portfolio for data-centric roles.<br><br>⚡ Fun fact:<br><br>I won an award in candid photography on World Environment Day.
 
 
 ## 🌐 Socials:
