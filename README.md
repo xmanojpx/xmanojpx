@@ -101,11 +101,3 @@
 - ✉️ Email: [p.manoj2005@gmail.com](mailto:p.manoj2005@gmail.com)
 
 Always happy to talk about implementation consulting, AI/ML projects, or full-stack builds — my inbox is open.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xmanojpx/xmanojpx/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xmanojpx/xmanojpx/output/github-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/xmanojpx/xmanojpx/output/github-snake.svg" />
-  </picture>
-</div>
