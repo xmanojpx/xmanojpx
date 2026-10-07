@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xmanojpx&style=flat-square&color=C8FF00" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=xmanojpx&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/xmanojpx?style=flat-square&label=Followers&color=C8FF00" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-C8FF00?style=flat-square" alt="Chennai, India" />
 </p>
