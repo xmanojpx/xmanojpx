@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/manoj-prabakaran" title="Connect with me on LinkedIn"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3A,100:0A66C2&height=230&section=header&text=Manoj%20Prabakaran&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Implementation%20Consultant%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=17&descAlignY=60&animation=fadeIn" alt="Manoj Prabakaran — header banner (click to connect on LinkedIn)" width="100%" /></a>
+  <img src="https://raw.githubusercontent.com/xmanojpx/xmanojpx/main/assets/banner-animated.svg" alt="Manoj Prabakaran — Data. Automation. Solutions. Implementation & Technical Consulting" width="100%" />
 </div>
 
 <div align="center">
