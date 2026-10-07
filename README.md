@@ -63,10 +63,6 @@
   <img src="https://streak-stats.demolab.com?user=xmanojpx&theme=github-dark&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xmanojpx&theme=github-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
-</div>
-
 ## 🚀 Featured Projects
 
 | Project | What it is | Stack |
