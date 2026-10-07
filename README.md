@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3A,100:0A66C2&height=230&section=header&text=Manoj%20Prabakaran&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Implementation%20Consultant%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=17&descAlignY=60&animation=fadeIn" alt="Manoj Prabakaran — header banner" width="100%" />
+  <a href="https://www.linkedin.com/in/manoj-prabakaran" title="Connect with me on LinkedIn"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3A,100:0A66C2&height=230&section=header&text=Manoj%20Prabakaran&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Implementation%20Consultant%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=17&descAlignY=60&animation=fadeIn" alt="Manoj Prabakaran — header banner (click to connect on LinkedIn)" width="100%" /></a>
 </div>
 
 <div align="center">
