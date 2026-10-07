@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xmanojpx/xmanojpx/main/assets/banner-animated.svg" alt="Manoj Prabakaran — Data. Automation. Solutions. Implementation & Technical Consulting" width="100%" />
+  <img src="https://raw.githubusercontent.com/xmanojpx/xmanojpx/main/assets/banner-animated.svg?v=2" alt="Manoj Prabakaran — Data. Automation. Solutions. Implementation & Technical Consulting" width="100%" />
 </div>
 
 <div align="center">
